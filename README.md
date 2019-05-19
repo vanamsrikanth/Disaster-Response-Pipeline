@@ -1,0 +1,2 @@
+# Disaster-Response-Pipeline
+This project holds repository that contains code for application which can be used by employees during a disaster event (e.g. an earthquake or hurricane), to be able to classify the messages into several categories, in order that the message can be directed to the appropriate aid agencies.  The app uses a ML model to categorize any new messages received, and the repository also contains the code used to train the model and to prepare any new data-sets for model training purposes.
